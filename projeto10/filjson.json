@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Neymar",
+    "categoriaEsporte": "Futebol",
+    "cpf": "324234234"
+  },
+  {
+    "nome": "Rayssa Leal",
+    "categoriaEsporte": "Skate",
+    "cpf": "45454222"
+  }
+]
