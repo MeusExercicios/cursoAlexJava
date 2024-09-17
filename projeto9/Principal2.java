@@ -22,6 +22,6 @@ public class Principal2 {
             JOptionPane.showMessageDialog(null,"Seu Boleto está atrasado");
         }
 
-        JOptionPane.showMessageDialog(null,"Obrigado por usar nossos serviços");
+        JOptionPane.showMessageDialog(null,"Obrigado por usar nossos serviços. Volte sempre!");
     }
 }
